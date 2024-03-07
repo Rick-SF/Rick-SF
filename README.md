@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil! 👋
 
-* Aprendendo banco de Dados
+* Procurando se Especializar na Àrea de Dados.
 
 <a href="https://github.com/Rick-SF">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=Rick-SF&theme=radical"/>
