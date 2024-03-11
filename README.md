@@ -3,10 +3,10 @@
 * Procurando se Especializar na Àrea de Dados.
 
 <a href="https://github.com/Rick-SF">
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=Rick-SF&theme=radical"/>
+  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=Rick-SF&theme=radical&hide=jupyter%20notebook"/>
 </a>
 <a href="https://github.com/Rick-SF">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rick-SF&layout=compact&langs_count=8&theme=radical"/>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rick-SF&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"/>
 </a>
 
 <div style="display: inline_block"><br>
