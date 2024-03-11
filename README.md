@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil! 👋
+### Olá, Bem Vindo ao meu Perfil! 👋
 
 * Procurando se Especializar na Àrea de Dados.
 
