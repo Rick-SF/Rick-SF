@@ -27,7 +27,7 @@ Meus atuais Objetivos como Estudante são:
 </div>
 
 <div style="display: inline_block"><br>
-  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Contatos</h2>
+  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Redes/Contato</h2>
   <div align = "center">
     <a href="https://www.linkedin.com/in/ricardo-silva-flores-2b06a1214/" target="_blank"> <img height = "35" width="130" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:purpleknight170@gmail.com"><img height = "35" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
