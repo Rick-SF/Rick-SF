@@ -11,7 +11,7 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Experience in:</h2>
+  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Experience in</h2>
   <div align = "center">
     <img align="center" alt="HTML-PLL" title="HTML-PLL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS-PLL" title="CSS-PLL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -26,7 +26,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2></h2>
+  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Contacts</h2>
   <div align = "center">
     <a href="https://www.linkedin.com/in/ricardo-silva-flores-2b06a1214/" target="_blank"> <img  height = "35" width="130" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:purpleknight170@gmail.com"><img height = "35" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
