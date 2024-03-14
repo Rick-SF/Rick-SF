@@ -7,9 +7,9 @@ Sempre fui Apaixonado por TI, e tenho o Desejo de ser um Grande Profissional da 
 Atualmente moro em João Pessoa, PB.
 
 Meus atuais Objetivos como Estudante são:
-* Aprimorar meu entendimento dos princípios fundamentais e das habilidades práticas necessárias na área.
-* Ganhar Experiência e se familiarizar com Diversas Tecnologias e Ferramentas Relevantes.
-* Conseguir a minha Primeira Experiência Profissional e Desenvolver Habilidades Profissionais e estabelecer Contatos na Indústria.
+* Aprimorar meu Entendimento dos Princípios Fundamentais e das Habilidades Práticas Necessárias na Àrea.
+* Ganhar Experiência e se Familiarizar com Diversas Tecnologias e Ferramentas Relevantes.
+* Conseguir a minha Primeira Experiência Profissional, Desenvolver Habilidades Profissionais e Estabelecer Contatos na Indústria.
 
 <div style="display: inline_block"><br>
   <h2 align = "center" font-family = "rebuchet MS, sans-serif">Experiência em</h2>
