@@ -1,17 +1,18 @@
-### Welcome to my Profile! 👋
+### Olá, Bem Vindo ao meu Perfil! 👋
 
-* Looking for Professional Experience.
-* Graduating Computer Sciences.
+Sou um Estudante concluindo a minha Primeira Graduação de Ciência da Computação na Unipê.   
 
-<a href="https://github.com/Rick-SF">
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=Rick-SF&theme=radical&hide=jupyter%20notebook"/>
-</a>
-<a href="https://github.com/Rick-SF">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rick-SF&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook"/>
-</a>
+Sempre fui Apaixonado por TI, e tenho o Desejo de ser um Grande Profissional da área.
+
+Atualmente moro em João Pessoa, PB.
+
+Meus atuais Objetivos como Estudante são:
+* Aprimorar meu entendimento dos princípios fundamentais e das habilidades práticas necessárias na área.
+* Ganhar Experiência e se familiarizar com Diversas Tecnologias e Ferramentas Relevantes.
+* Conseguir a minha Primeira Experiência Profissional e Desenvolver Habilidades Profissionais e estabelecer Contatos na Indústria.
 
 <div style="display: inline_block"><br>
-  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Experience in</h2>
+  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Experiência em</h2>
   <div align = "center">
     <img align="center" alt="HTML-PLL" title="HTML-PLL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS-PLL" title="CSS-PLL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -26,7 +27,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Contacts</h2>
+  <h2 align = "center" font-family = "rebuchet MS, sans-serif">Contatos</h2>
   <div align = "center">
     <a href="https://www.linkedin.com/in/ricardo-silva-flores-2b06a1214/" target="_blank"> <img height = "35" width="130" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:purpleknight170@gmail.com"><img height = "35" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
